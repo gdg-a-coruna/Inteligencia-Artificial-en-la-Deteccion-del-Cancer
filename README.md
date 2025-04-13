@@ -1,4 +1,14 @@
 # Inteligencia Artificial en la Detección del Cáncer
+![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-violet)
+<img align="right" alt="License MIT" src="https://img.shields.io/badge/LICENSE-MIT-green" /> <br/>
+<img alt="r" src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" />
+<img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white" />
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%237F52FF.svg?style=flat-square&logo=Matplotlib&logoColor=white" />
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
+
 Este repositorio contiene recursos y enlaces útiles para profundizar en el uso de la Inteligencia Artificial (IA) y el Machine Learning (ML) en la detección del cáncer, basado en la presentación del Google Developer Group (GDG) A Coruña. Aquí encontrarás información sobre repositorios donde encontrar bases de datos, algoritmos, preprocesamiento, cursos y manuales de librerías utilizadas en el proceso.
 
 ## Tabla de Contenidos
