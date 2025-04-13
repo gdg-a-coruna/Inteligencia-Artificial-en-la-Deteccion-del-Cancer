@@ -1,3 +1,5 @@
+![Banner Build with AI](assets/banner.png)
+
 # Inteligencia Artificial en la Detección del Cáncer
 ![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-violet)
 <img align="right" alt="License MIT" src="https://img.shields.io/badge/LICENSE-MIT-green" /> <br/>
